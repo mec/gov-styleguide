@@ -1,3 +1,5 @@
+This is some text in the markdown file for the button component.
+
 Button example:
 
 ```js

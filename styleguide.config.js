@@ -1,4 +1,5 @@
 module.exports = {
+  title: 'Styleguide Experiment',
   sections: [
     {
       name: 'Introduction',
