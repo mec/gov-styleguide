@@ -1,0 +1,5 @@
+StartButtonexample:
+
+```js
+  <StartButton/>
+```
